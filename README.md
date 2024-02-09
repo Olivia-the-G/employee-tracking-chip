@@ -1,9 +1,7 @@
 # Employee Tracking Chip [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square&link=https%3A%2F%2Fopensource.org%2Flicense%2Fmit%2F)](https://opensource.org/license/mit/)
 
 ## Description 
-This is a simple command line application designed to **assist business owners** in organization and planning for their company
-
-This app uses the **Inquirer package** to prompt the user with various actions like viewing employee roles, and adding departments, etc.
+This is a simple command line application designed to **assist business owners** in organization and planning for their company. This app uses the **Inquirer package** to prompt the user with various actions like viewing employee roles, and adding departments, etc.
 
 ## Table of Contents
 
