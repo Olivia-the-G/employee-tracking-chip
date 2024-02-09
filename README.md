@@ -12,10 +12,32 @@ This is a simple command line application designed to **assist business owners**
 - [Contact](#contact)
 
 ## Installation
-To install this project 
+*To install this project*
+
+1. Clone the repository to your computer using the command:
+
+        git clone 'repository url'
+
+
+2. Install code dependencies by running:
+
+        npm install
+
+Now you should be all set 👍
 
 ## Usage
-In order to run this application 
+*To use this project*
+
+1. Open the command line and cd into the code repository. Make sure you are in the "Develop" folder.
+
+        cd employee-tracking-chip
+        cd Develop
+
+2. Once in the correct path run the command:
+
+        node index.js
+
+3. Now you will receive the initial prompt. 
 
 ## Demo
 *will be included once the project is finished*
