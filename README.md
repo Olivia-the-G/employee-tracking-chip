@@ -43,7 +43,9 @@ Now you should be all set 👍
 3. Now you will receive the initial prompt. 
 
 ## Demo
-*will be included once the project is finished*
+
+https://github.com/Olivia-the-G/employee-tracking-chip/assets/130778807/f883d305-f306-4231-b06f-b57f9c9c8f77
+
 
 ## License
 This application is under the MIT license. To see full license details, [click here](https://opensource.org/license/mit/)
