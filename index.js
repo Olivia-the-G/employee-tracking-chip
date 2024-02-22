@@ -1,12 +1,6 @@
-const express = require('express');
+require('dotenv').config();
 const inquirer = require('inquirer');
 const mysql = require('mysql2');
-
-const app = express();
-
-// middleware
-app.use(express.urlencoded({ extended: false }));
-app.use(express.json());
 
 // connect to database
 const db = mysql.createConnection(
@@ -14,7 +8,8 @@ const db = mysql.createConnection(
     host: 'localhost',
     user: 'root',
     password: 'password',
-    database: 'employees_db'
+    database: 'employees_db',
+    port: '3306'
   },
   console.log('Connected to employees_db.')
 );
