@@ -28,10 +28,9 @@ Now you should be all set 👍
 ## Usage
 *To use this project*
 
-1. Open the command line and cd into the code repository. Make sure you are in the "Develop" folder.
+1. Open the command line and cd into the code repository.
 
         cd employee-tracking-chip
-        cd Develop
 
 2. Once in the correct path run the command:
 
